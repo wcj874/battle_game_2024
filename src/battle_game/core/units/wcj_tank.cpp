@@ -154,7 +154,7 @@ bool wcj_Tank::IsHit(glm::vec2 position) const {
 }
 
 const char *wcj_Tank::UnitName() const {
-  return "wcj_Tank";
+  return "wcj Tank";
 }
 
 const char *wcj_Tank::Author() const {
