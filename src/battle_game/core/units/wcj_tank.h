@@ -4,7 +4,7 @@
 namespace battle_game::unit {
 class wcj_Tank : public Unit {
  public:
-  Tank(GameCore *game_core, uint32_t id, uint32_t player_id);
+  wcj_Tank(GameCore *game_core, uint32_t id, uint32_t player_id);
   void Render() override;
   void Update() override;
   [[nodiscard]] bool IsHit(glm::vec2 position) const override;
