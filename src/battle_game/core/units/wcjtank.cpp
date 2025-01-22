@@ -154,7 +154,7 @@ bool Tank::IsHit(glm::vec2 position) const {
 }
 
 const char *Tank::UnitName() const {
-  return "wcj Tank";
+  return "wcj_Tank";
 }
 
 const char *Tank::Author() const {
