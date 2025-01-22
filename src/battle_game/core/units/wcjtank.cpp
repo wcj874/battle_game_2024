@@ -1,4 +1,4 @@
-#include "wcjtank.h"
+#include "wcj_tank.h"
 
 #include "battle_game/core/bullets/bullets.h"
 #include "battle_game/core/game_core.h"
